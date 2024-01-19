@@ -62,7 +62,7 @@ How to utilize this CLI utility:
 ### Binary (.exe)
 
 ```bash
-mobaxtgen_cli.exe [OPTIONS] <name> <version> <users>
+mobaxterm_cli.exe [OPTIONS] <name> <version> <users>
 ```
 
 <br />
@@ -70,7 +70,7 @@ mobaxtgen_cli.exe [OPTIONS] <name> <version> <users>
 ### Script (.py)
 
 ```bash
-mobaxtgen_cli.py [OPTIONS] <name> <version> <users>
+mobaxterm_cli.py [OPTIONS] <name> <version> <users>
 ```
 
 <br />
@@ -104,7 +104,7 @@ mobaxtgen_cli.py [OPTIONS] <name> <version> <users>
 Generate (Normal)
 
 ```bash
-$ mobaxtgen_cli.exe "Aetherx" 23.6 4
+$ mobaxterm_cli.exe "Aetherx" 23.6 4
 ```
 
 <br />
@@ -125,7 +125,7 @@ Users ....................: 4
 Generate (Simple)
 
 ```bash
-$ mobaxtgen_cli.exe -s "Aetherx" 23.6 4
+$ mobaxterm_cli.exe -s "Aetherx" 23.6 4
 ```
 
 <br />
@@ -145,7 +145,7 @@ Output:
 Generate + return simple result
 
 ```bash
-$ mobaxtgen_cli.exe -s "Aetherx" 23.6 4
+$ mobaxterm_cli.exe -s "Aetherx" 23.6 4
 ```
 
 Output:
