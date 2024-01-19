@@ -1,0 +1,51 @@
+# ----------------------
+# Ignore everything
+# ----------------------
+/*
+
+# ----------------------
+# Add Gitignore
+# ----------------------
+!.gitignore
+
+# ----------------------
+# Misc Templates
+# ----------------------
+!License*
+!Contributing*
+!Funding*
+!.github
+!.gitea
+!.gitlab
+
+# ----------------------
+# Add Manifest
+# ----------------------
+!/manifest
+
+# ----------------------
+# Add Tools
+# ----------------------
+!/Tools
+
+# ----------------------
+# Add Docs
+# ----------------------
+!/Docs
+
+# ----------------------
+# Bin
+# ----------------------
+!/release
+
+# Allow: Exts
+!*.csproj
+!*.sln
+!*.cs
+!*.resx
+!*.py
+!*.spec
+!*.ico
+!*.md
+!sign.bat
+!build.bat
